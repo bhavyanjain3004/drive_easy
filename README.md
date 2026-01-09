@@ -83,4 +83,4 @@ DriveEasy is a modern car rental platform where car owners can list their vehicl
 ## 📄 Usage
 
 - For Owners: Sign up, add cars, manage listings, and track bookings.
-- For Customers: Browse cars, filter based on preference, view details, and book rentals.
+- For Customers: Browse cars, filter based on preference, view details, and book rentals
